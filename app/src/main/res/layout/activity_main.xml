@@ -64,9 +64,4 @@
         android:onClick="limpar"
         android:text="Limpar" />
 
-    <TextView
-        android:id="@+id/textResultado"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Informações:" />
 </LinearLayout>
